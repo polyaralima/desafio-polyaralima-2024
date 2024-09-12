@@ -1,0 +1,14 @@
+{
+  "name": "desafio-zoo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.21.0",
+    "babel-jest": "^29.6.2",
+    "jest": "^29.7.0"
+  }
+}
